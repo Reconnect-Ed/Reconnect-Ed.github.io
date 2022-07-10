@@ -175,7 +175,7 @@ nav .menu { /* top navigation bar menu display */
 /*---------------------------- Text above form ----------------------------*/
 .main-area {
     position: absolute;
-    top: 80%;
+    top: 50%;
     left: 50%;
     width: 100%;
     transform: translate(-50%, -50%);
@@ -184,7 +184,7 @@ nav .menu { /* top navigation bar menu display */
 }
 
 .main-area .heading-text {
-    color: #b9a5e2;
+    color: #fff;
     font-size: 55px;
     font-weight: 600;
 }
