@@ -56,26 +56,6 @@ nav .menu { /* top navigation bar menu display */
 
 /* -------- END TOP NAVIGATION BAR -------------------------------*/
 
-/* weird old image thing might keep it or not
-.img{ 
-    background-image: url('https://media.istockphoto.com/photos/man-using-laptop-computer-picture-id590062300?k=20&m=590062300&s=170667a&w=0&h=GG1hRrs7_CyJoxrd46u7lQSFKyx5wlr-NQg_p6mWcDc=');
-    background-repeat: no-repeat;
-    height: 100vh;
-    width: 100%;
-    background-position: center;
-    background-size: cover;
-    position: relative;
-}
-
-.img::before{
-    content: '';
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background: rgba(0, 0, 0, 0.4);
-}
-*/
-
 /* -------------------------- MIDDLE WIDGET --------------------------*/
 
 .main-area {
