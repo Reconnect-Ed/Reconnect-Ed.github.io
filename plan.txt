@@ -18,3 +18,7 @@ how to use codeswing:
 - go to command whatever (Ctrl + Shift + P)
 - search up CodeSwing: Reopen workspace Swing 
 - ez dubs
+
+turotials watched:
+- https://www.youtube.com/c/CodingLabYT/videos?view=0&sort=p&flow=grid
+- https://www.youtube.com/watch?v=89vz08bOT_M

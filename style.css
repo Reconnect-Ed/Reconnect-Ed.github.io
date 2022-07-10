@@ -102,7 +102,7 @@ nav .menu { /* top navigation bar menu display */
     100% {
         opacity: 0;
         border-radius: 50%;
-        transform: translateY(-1000px) rotate(720deg);
+        transform: translateY(-2000px) rotate(720deg);
     }
 }
 
