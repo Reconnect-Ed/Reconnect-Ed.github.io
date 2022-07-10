@@ -4,14 +4,17 @@
     box-sizing: border-box;
     font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif;
 }
-nav{ /* top purple bar */
+
+/* ------------------------------------- TOP NAVIGATION BAR -------------------------------*/
+
+nav { /* top purple bar */
     position: fixed;
-    background: #e7ddff;
+    background: #b9a5e2;
     width: 100%;
     padding: 10px 0;
     z-index: 12;
 }
-nav .menu{ /* top navigation bar menu display */
+nav .menu { /* top navigation bar menu display */
     max-width: 1250px;
     margin: auto;
     display: flex;
@@ -20,23 +23,23 @@ nav .menu{ /* top navigation bar menu display */
     padding: 0 20px;
 }
 
-.menu .logo a{ /* logo display */
+.menu .logo a { /* logo display */
     text-decoration: none;
     color: #691796;
     font-size: 35px;
     font-weight: 600;
 }
 
-.menu ul{ /* display for the navigation bar */
+.menu ul { /* display for the navigation bar */
     display: inline-flex;
 }
 
-.menu ul li{ /* list style */
+.menu ul li { /* list style */
     list-style: none;
     margin-left: 7px;
 }
 
-.menu ul li a{ /*details for the navigation top menu*/
+.menu ul li a { /*details for the navigation top menu*/
     text-decoration: none;
     color: #691796;
     font-size: 18px;
@@ -46,12 +49,15 @@ nav .menu{ /* top navigation bar menu display */
     transition: all 0.3s ease;
 }
 
-.menu ul li a:hover{
-    background: #fff;
-    color: #000;
+.menu ul li a:hover {
+    /* background: #fff; */
+    color: #fff;
 }
 
-.img{ /* edit: i am just stupid */
+/* -------- END TOP NAVIGATION BAR -------------------------------*/
+
+/* weird old image thing might keep it or not
+.img{ 
     background-image: url('https://media.istockphoto.com/photos/man-using-laptop-computer-picture-id590062300?k=20&m=590062300&s=170667a&w=0&h=GG1hRrs7_CyJoxrd46u7lQSFKyx5wlr-NQg_p6mWcDc=');
     background-repeat: no-repeat;
     height: 100vh;
@@ -68,8 +74,124 @@ nav .menu{ /* top navigation bar menu display */
     width: 100%;
     background: rgba(0, 0, 0, 0.4);
 }
+*/
 
-.center{
+/* -------------------------- MIDDLE WIDGET --------------------------*/
+
+.main-area {
+    background: linear-gradient(to bottom, #b9a5e2, #fff);
+    width: 100%;
+    height: 100vh;
+}
+
+.circles{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+@keyframes animate {
+    0% {
+        opacity: 1;
+        border-radius: 0;
+        transform: translateY(0) rotate(0deg);
+    }
+    100% {
+        opacity: 0;
+        border-radius: 50%;
+        transform: translateY(-1000px) rotate(720deg);
+    }
+}
+
+.circles div {
+    position: absolute;
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    bottom: -150px;
+    animation: animate 25s linear infinite;
+}
+
+.circles div:nth-child(1) {
+    left: 25%;
+    width: 80px;
+    height: 80px;
+    animation-delay: 0s;
+}
+
+.circles div:nth-child(2) {
+    left: 10%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 2s;
+    animation-duration: 12s;
+}
+
+.circles div:nth-child(3) {
+    left: 70%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 4s;
+}
+
+.circles div:nth-child(4) {
+    left: 40%;
+    width: 60px;
+    height: 60px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+}
+
+.circles div:nth-child(5) {
+    left: 65%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 0s;
+}
+
+.circles div:nth-child(6) {
+    left: 75%;
+    width: 110px;
+    height: 110px;
+    animation-delay: 3s;
+}
+
+.circles div:nth-child(7) {
+    left: 35%;
+    width: 150px;
+    height: 150px;
+    animation-delay: 7s;
+}
+
+.circles div:nth-child(8) {
+    left: 50%;
+    width: 25px;
+    height: 25px;
+    animation-delay: 15s;
+    animation-duration: 45s;
+}
+
+.circles div:nth-child(9) {
+    left: 20%;
+    width: 15px;
+    height: 15px;
+    animation-delay: 2s;
+    animation-duration: 35s;
+}
+
+.circles div:nth-child(10) {
+    left: 85%;
+    width: 150px;
+    height: 150px;
+    animation-delay: 0s;
+    animation-duration: 11s;
+}
+
+.center { /* area for text */
     position: absolute;
     top: 52%;
     left: 50%;
@@ -79,29 +201,32 @@ nav .menu{ /* top navigation bar menu display */
     text-align: center;
 }
 
-.center .title{
+.center .title {
     color:#fff;
     font-size: 55px;
     font-weight: 600;
 }
 
-.center .sub_title{ 
+.center .sub_title { 
     color: #fff;
     font-size: 52px;
     font-weight: 600;
 }
 
-.center .btns{
+/* -------------------------- END MIDDLE WIDGET --------------------------*/
+
+
+/* ----------------------------------- BUTTONS ---------------------------------------*/
+.center .btns {
     margin-top: 20px;
 }
 
-.center .btns button{
+.center .btns button { /* attributes for all buttons */
     height: 55px;
     width: 170px;
     border-radius: 5px;
     border: none;
     margin: 0 10px;
-    border: 2px solid#fff;
     font-size: 20px;
     font-weight: 500;
     padding: 0 10px;
@@ -110,12 +235,23 @@ nav .menu{ /* top navigation bar menu display */
     transition: all 0.3s ease;
 }
 
-.center .btns button:first-child{
+.center .btns button:first-child {
     color: #fff;
+    border: 2px solid #fff;
     background: none;
 } 
 
-.center .btns button:first-child:hover{
+.center .btns button:first-child:hover {
     background: #fff;
     color: #000;
 }
+
+.center .btns button:nth-child(2) { /* second button properties */
+    background: #b9a5e2;
+}
+
+.center .btns button:nth-child(2):hover { /* second button hover properties */
+    background: #d1c1f2;
+}
+
+/* ----------------------------------- END BUTTONS ---------------------------------------*/
