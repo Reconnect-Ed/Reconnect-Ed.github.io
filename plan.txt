@@ -10,5 +10,6 @@ color theme:
 
 github remote cheatsheet:
 - add changes: git add --all
+- commit changes: git commit -m "version number"
 - push changes to main branch: git push -u origin main
 - gather changes: git pull origin main
