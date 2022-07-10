@@ -1,0 +1,14 @@
+What we need in the website:
+- title
+- the event date somewhere on the home screen.
+- 3 pages: home, about us, join us
+- have a preregister button that leads to a form
+- have some social media buttons
+
+color theme:
+- light purple & silver/white
+
+github remote cheatsheet:
+- add changes: git add --all
+- push changes to main branch: git push -u origin main
+- gather changes: git pull origin main
