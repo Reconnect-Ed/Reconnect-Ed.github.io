@@ -5,24 +5,44 @@
     font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif;
 }
 
+/*---------------------------- Text above form ----------------------------*/
+.main-area {
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    padding: 0 20px;
+    text-align: center;
+}
+
+.main-area .heading-text {
+    color: #b9a5e2;
+    font-size: 55px;
+    font-weight: 600;
+}
+
+/*---------------------------- End text above form -----------------------------*/
+
+/* ------------------------------Form -----------------------------*/
 /* Labels */
-label {
+.main-area .preregister-form label {
     display: block;
     margin-top: 1em;
 }
 
-label:first-of-type {
+.main-area .preregister-form label:first-of-type {
     margin-top: 0;
 }
 
 /* Inputs and text area */
-input {
+.main-area .preregister-form input {
     padding: .5em;
     border: solid 1px #999;
 }
 
 /* Submit Button */
-input[type="submit"] {
+.main-area .preregister-form input[type="submit"] {
     padding: .5em 1em;
     border-radius: 6px;
     background-color: #333;
@@ -30,3 +50,4 @@ input[type="submit"] {
     font-family: 'Lato', sans-serif;
     font-size: .8em;
 }
+/* ------------------------------ End Form -----------------------------*/
