@@ -13,3 +13,8 @@ github remote cheatsheet:
 - commit changes: git commit -m "version number"
 - push changes to main branch: git push -u origin main
 - gather changes: git pull origin main
+
+how to use codeswing:
+- go to command whatever (Ctrl + Shift + P)
+- search up CodeSwing: Reopen workspace Swing 
+- ez dubs
