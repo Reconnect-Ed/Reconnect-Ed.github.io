@@ -175,7 +175,7 @@ nav .menu { /* top navigation bar menu display */
 /*---------------------------- Text above form ----------------------------*/
 .main-area {
     position: absolute;
-    top: 30%;
+    top: 80%;
     left: 50%;
     width: 100%;
     transform: translate(-50%, -50%);
