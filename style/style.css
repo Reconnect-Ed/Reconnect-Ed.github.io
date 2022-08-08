@@ -1,3 +1,6 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Montserrat:wght@300&display=swap');
+
 *{
     margin:0;
     padding: 0;
@@ -7,51 +10,18 @@
 
 /* ------------------------------------- TOP NAVIGATION BAR -------------------------------*/
 
-nav { /* top purple bar */
-    position: fixed;
-    background: #b9a5e2;
-    width: 100%;
-    padding: 10px 0;
-    z-index: 12;
-}
-nav .menu { /* top navigation bar menu display */
-    max-width: 1250px;
-    margin: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 20px;
+.logo{
+    font-size: 1.9em !important;
+    font-family: 'Comfortaa', cursive !important;
+    font-family: 'Montserrat', sans-serif !important;
 }
 
-.menu .logo a { /* logo display */
-    text-decoration: none;
-    color: #691796;
-    font-size: 35px;
-    font-weight: 600;
+.menu-items{
+    font-size: 1.2em !important;
 }
-
-.menu ul { /* display for the navigation bar */
-    display: inline-flex;
-}
-
-.menu ul li { /* list style */
-    list-style: none;
-    margin-left: 7px;
-}
-
-.menu ul li a { /*details for the navigation top menu*/
-    text-decoration: none;
-    color: #691796;
-    font-size: 18px;
-    font-weight: 500;
-    padding: 8px 15px;
-    border-radius: 5px;
-    transition: all 0.3s ease;
-}
-
-.menu ul li a:hover {
-    /* background: #fff; */
-    color: #fff;
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: white;
 }
 
 /* -------- END TOP NAVIGATION BAR -------------------------------*/
@@ -239,9 +209,7 @@ nav .menu { /* top navigation bar menu display */
 /* ----------------------------------- LEARN MORE ---------------------------------------*/
 .learn-more {
     background: #a48bcc;
-    width: 100%;
-    height: 35vh;
-
+    width: 100%; 
     position: relative;
     width: 100%;
     text-align: center;
