@@ -43,7 +43,7 @@ export default defineConfig({
     ],
 
     siteTitle: 'Reconnect-Ed Hackathon',
-    logo: '/images/icon.jpg',
+    logo: '/icon.jpg',
     nav: [
       {
         text: 'Preregister',
