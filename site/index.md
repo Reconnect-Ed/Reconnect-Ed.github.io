@@ -1,7 +1,8 @@
 ---
 layout: home
 
-title: Reconnect-Ed 2022 Hackathon
+title: Reconnect-Ed
+titleTemplate: 2022 Hackathon
 
 hero:
   name: Reconnect-Ed 2022 Hackathon
