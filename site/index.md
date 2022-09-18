@@ -17,8 +17,9 @@ hero:
       text: Learn More
       link: /learn-more.md
 features:
-  - title: Box
-    details: More info
+  - icon: 🗓️
+    title: When?
+    details: October 21st to October 23rd
   - title: Box
     details: More info
   - title: Box
