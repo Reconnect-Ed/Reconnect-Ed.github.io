@@ -24,6 +24,13 @@ export default defineConfig({
           'A hackathon based in Juanita High School aiming to spread awareness of mental health, neuro divergency and their respective resources.',
       },
     ],
+    [
+      'meta',
+      {
+        name: 'theme-color',
+        content: '#646cff',
+      },
+    ],
   ],
   cleanUrls: 'with-subfolders',
   themeConfig: {
