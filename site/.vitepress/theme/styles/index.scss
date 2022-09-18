@@ -9,6 +9,16 @@
   --vp-c-brand-dimm: rgba(100, 108, 255, 0.08);
 }
 
+// title gradient
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    var(--vp-c-brand-lighter) 30%,
+    var(--vp-c-brand-darker)
+  );
+}
+
 /*
   Use lighter colors for links in dark mode for a11y.
   Also specify some classes twice to have higher specificity
@@ -37,7 +47,8 @@
 }
 
 // Better home image
-.VPHome .image .VPImage {
-  border-radius: 24px;
-  border: 1px solid var(--vp-c-black-mute);
+.VPHome .image {
+  .VPImage {
+    border-radius: 24px;
+  }
 }
