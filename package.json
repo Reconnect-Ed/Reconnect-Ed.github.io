@@ -1,0 +1,19 @@
+{
+  "name": "reconnect-ed-hackathon",
+  "scripts": {
+    "dev": "vitepress dev site",
+    "build": "vitepress build site",
+    "serve": "vitepress serve site"
+  },
+  "devDependencies": {
+    "sass": "^1.54.9",
+    "vitepress": "1.0.0-alpha.15"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
+  }
+}
