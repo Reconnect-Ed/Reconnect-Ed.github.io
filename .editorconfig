@@ -1,7 +1,0 @@
-root = true
-
-useTabs =  true
-endOfLine =  lf
-trailingComma =  es5
-singleQuote =  true
-semi =  true
