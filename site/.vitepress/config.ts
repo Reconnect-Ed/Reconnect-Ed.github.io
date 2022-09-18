@@ -8,10 +8,10 @@ export default defineConfig({
     reactivityTransform: true,
   },
   head: [
-    ['link', { rel: 'icon', href: '/images/icon.jpg' }],
+    ['link', { rel: 'icon', href: '/icon.jpg' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Reconnect-Ed Hackathon' }],
-    ['meta', { property: 'og:image', content: '/images/icon.jpg' }],
+    ['meta', { property: 'og:image', content: '/icon.jpg' }],
     [
       'meta',
       { property: 'og:url', content: 'https://reconnect-ed.github.io/' },
