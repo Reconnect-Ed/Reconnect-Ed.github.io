@@ -41,7 +41,7 @@ export default defineConfig({
       },
       {
         icon: 'discord',
-        link: 'https://discord.gg/MvzDn6JSgH',
+        link: 'https://discord.gg/hgbtWavSDy',
       },
       {
         icon: 'instagram',
