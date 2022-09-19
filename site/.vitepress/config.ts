@@ -57,8 +57,8 @@ export default defineConfig({
         link: '/preregister.md',
       },
       {
-        text: 'Learn More',
-        link: '/learn-more.md',
+        text: 'About',
+        link: '/about.md',
       },
       {
         text: 'Contact Us',

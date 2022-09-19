@@ -16,7 +16,7 @@ hero:
       link: /preregister.md
     - theme: alt
       text: Learn More
-      link: /learn-more.md
+      link: /about.md
 features:
   - icon: 🗓️
     title: When?
