@@ -1,3 +1,7 @@
 {
-  "cSpell.words": ["Geoguessr", "hackathon", "Kahoot", "Tetris"]
+  "cSpell.words": ["Geoguessr", "hackathon", "Kahoot", "Tetris"],
+  "markdownlint.config": {
+    "MD033": false,
+    "MD041": false
+  }
 }
