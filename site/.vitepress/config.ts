@@ -64,6 +64,10 @@ export default defineConfig({
         text: 'Contact Us',
         link: '/contact.md',
       },
+      {
+        text: 'Schedule',
+        link: '/schedule.md',
+      },
     ],
   },
 });

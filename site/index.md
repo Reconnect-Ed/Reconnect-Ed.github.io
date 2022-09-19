@@ -20,7 +20,7 @@ hero:
 features:
   - icon: 🗓️
     title: When?
-    details: October 21st to October 23rd
+    details: October 21st to October 23rd, 36 hours
   - title: Box
     details: More info
   - title: Box
