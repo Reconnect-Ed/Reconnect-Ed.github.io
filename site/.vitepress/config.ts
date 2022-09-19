@@ -31,14 +31,6 @@ export default defineConfig({
         content: '#646cff',
       },
     ],
-    [
-      'script',
-      {
-        async: 'true',
-        defer: 'true',
-        src: 'https://www.instagram.com/embed.js',
-      },
-    ],
   ],
   // this broke gh pages for some reason
   // cleanUrls: 'with-subfolders',

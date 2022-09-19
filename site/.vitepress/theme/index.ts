@@ -1,3 +1,4 @@
+import { createHead } from '@vueuse/head';
 import Theme from 'vitepress/theme';
 import { App } from 'vue';
 // @ts-ignore
@@ -8,5 +9,6 @@ export default {
   ...Theme,
   enhanceApp({ app }: { app: App }) {
     app.provide('InstagramPlaceholder', InstagramPlaceholder);
+    app.use(createHead());
   },
 };

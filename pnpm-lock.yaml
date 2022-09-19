@@ -1,11 +1,13 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@vueuse/head': ^0.7.12
   sass: ^1.54.9
   vitepress: 1.0.0-alpha.15
   vue: ^3.2.39
 
 devDependencies:
+  '@vueuse/head': 0.7.12_vue@3.2.39
   sass: 1.54.9
   vitepress: 1.0.0-alpha.15_sass@1.54.9
   vue: 3.2.39
@@ -313,6 +315,17 @@ packages:
       - vue
     dev: true
 
+  /@vueuse/head/0.7.12_vue@3.2.39:
+    resolution: {integrity: sha512-sRcrE6VohiHInQR0sB0U8H8x2hAKdo+AIhd5PWBLx1jUp2vwyeQyA/4rlCzP5CMDB8z61MLvsOCApFJrRMRtTQ==}
+    peerDependencies:
+      vue: '>=2.7 || >=3'
+    dependencies:
+      '@zhead/schema-vue': 0.7.3_vue@3.2.39
+      vue: 3.2.39
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+    dev: true
+
   /@vueuse/metadata/9.2.0:
     resolution: {integrity: sha512-exN4KE6iquxDCdt72BgEhb3tlOpECtD61AUdXnUqBTIUCl70x1Ar/QXo3bYcvxmdMS2/peQyfeTzBjRTpvL5xw==}
     dev: true
@@ -324,6 +337,22 @@ packages:
     transitivePeerDependencies:
       - '@vue/composition-api'
       - vue
+    dev: true
+
+  /@zhead/schema-vue/0.7.3_vue@3.2.39:
+    resolution: {integrity: sha512-X9wIugL/7fFoeVbxPDgRvBLdKt2k243ZezU4N85iCHjs4OaGTgXUPQVfb9+uP7dSj2kMSAvhvY6fKe7D9TzbHA==}
+    peerDependencies:
+      vue: '>=2.7 || >=3'
+    dependencies:
+      '@vueuse/shared': 9.2.0_vue@3.2.39
+      '@zhead/schema': 0.7.3
+      vue: 3.2.39
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+    dev: true
+
+  /@zhead/schema/0.7.3:
+    resolution: {integrity: sha512-z7TDtS5YihDW1w5Xk/P5iZ5bHuEajAGsRFs8ipgVSKZSqHy/7Tc4mC6FUfwFciHOj1efMHWf+tFY+byKUdVKug==}
     dev: true
 
   /algoliasearch/4.14.2:

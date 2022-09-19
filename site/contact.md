@@ -1,5 +1,17 @@
 <script setup>
-  import InstagramPlaceholder from '@theme/components/InstagramPlaceholder.vue'
+  import InstagramPlaceholder from '@theme/components/InstagramPlaceholder.vue';
+  import { defineComponent } from 'vue';
+  import { useHead } from '@vueuse/head';
+
+  useHead({
+    script: [
+      {
+        async: true,
+        defer: true,
+        src: 'https://www.instagram.com/embed.js'
+      }
+    ]
+  });
 </script>
 
 # Contact Us
