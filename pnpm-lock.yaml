@@ -3,10 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   sass: ^1.54.9
   vitepress: 1.0.0-alpha.15
+  vue: ^3.2.39
 
 devDependencies:
   sass: 1.54.9
   vitepress: 1.0.0-alpha.15_sass@1.54.9
+  vue: 3.2.39
 
 packages:
 
@@ -21,6 +23,9 @@ packages:
     peerDependencies:
       '@algolia/client-search': ^4.9.1
       algoliasearch: ^4.9.1
+    peerDependenciesMeta:
+      '@algolia/client-search':
+        optional: true
     dependencies:
       '@algolia/autocomplete-shared': 1.7.1
       algoliasearch: 4.14.2
