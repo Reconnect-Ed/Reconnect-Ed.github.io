@@ -1,10 +1,27 @@
+---
+layout: page
+---
+
 <script setup>
-import { VPTeamMembers } from 'vitepress/theme'
+import {
+  VPTeamPage,
+  VPTeamPageTitle,
+  VPTeamMembers
+} from 'vitepress/theme'
 import { team } from '@theme/composables/team'
+
 </script>
 
-# Our Team
-
-Say hello to our awesome team.
-
-<VPTeamMembers size="small" :members="team" />
+<VPTeamPage>
+  <VPTeamPageTitle>
+    <template #title>
+      Our Team
+    </template>
+    <template #lead>
+      Epic people
+    </template>
+  </VPTeamPageTitle>
+  <VPTeamMembers
+    :members="team"
+  />
+</VPTeamPage>
