@@ -1,7 +1,6 @@
 import { createHead } from '@vueuse/head';
 import Theme from 'vitepress/theme';
 import { App } from 'vue';
-// @ts-ignore
 import InstagramPlaceholder from './components/InstagramPlaceholder.vue';
 import './styles/index.scss';
 

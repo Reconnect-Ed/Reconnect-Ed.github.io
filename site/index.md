@@ -26,12 +26,12 @@ features:
     details: Juanita High School 10601 NE 132nd St, Kirkland, WA 98034
   - title: Box
     details: More info
-  - title: Box
-    details: More info
 ---
 
 <script setup>
   import { onMounted } from 'vue';
+  import { VPHomeSponsors } from 'vitepress/theme';
+  import { sponsors } from '@theme/composables/sponsor'
 
   onMounted(() => {
     document.querySelector('.VPHome .container .items .item:nth-child(2) .details').innerHTML = `
@@ -41,3 +41,5 @@ features:
 `
   });
 </script>
+
+<VPHomeSponsors message="This hackathon would not be possible without our wonderful sponsors." :data="sponsors" />
