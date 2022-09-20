@@ -15,9 +15,9 @@ export const sponsors: Sponsors[] = [
     size: 'big',
     items: [
       {
-        name: 'Bobs Burgers',
-        img: 'https://static.wixstatic.com/media/bf437b_7ded045444c541958eb586262212c195.png/v1/fill/w_246,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bf437b_7ded045444c541958eb586262212c195.png',
-        url: 'https://www.joesburgers.com/',
+        name: 'Hababisoft',
+        img: 'https://cdn.discordapp.com/attachments/1020201544198664202/1021652963409801306/Unt1itled.png',
+        url: 'https://githababi.github.io/',
       },
     ],
   },
