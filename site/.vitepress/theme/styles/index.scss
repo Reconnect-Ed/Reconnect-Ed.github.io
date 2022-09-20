@@ -62,3 +62,11 @@
   border-radius: 24px !important;
   box-shadow: 0 0 15px #ff0069 !important;
 }
+
+// Style directions link on home page
+.VPHome .container .items .item:nth-child(2) .details {
+  text-decoration: underline;
+  a {
+    text-decoration-color: var(--vp-c-text-2);
+  }
+}
