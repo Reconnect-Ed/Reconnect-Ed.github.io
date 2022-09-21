@@ -2,6 +2,7 @@ import { createHead } from '@vueuse/head';
 import Theme from 'vitepress/theme';
 import { App, h } from 'vue';
 import AsideSponsors from './components/AsideSponsors.vue';
+import HomeFeatures from './components/HomeFeatures.vue';
 import HomeSponsors from './components/HomeSponsors.vue';
 import InstagramPlaceholder from './components/InstagramPlaceholder.vue';
 import './styles/index.scss';
@@ -16,6 +17,7 @@ export default {
   Layout() {
     // insert sponsors
     return h(Theme.Layout, null, {
+      'home-features-before': () => h(HomeFeatures),
       'home-features-after': () => h(HomeSponsors),
       'aside-ads-before': () => h(AsideSponsors),
     });

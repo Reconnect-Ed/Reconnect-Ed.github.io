@@ -12,30 +12,9 @@ hero:
     alt: Reconnect-Ed
   actions:
     - theme: brand
-      text: Preregister
-      link: /preregister.md
+      text: Register
+      link: /register.md
     - theme: alt
       text: Learn More
       link: /about.md
-features:
-  - icon: 🗓️
-    title: When?
-    details: October 21st to October 23rd, 36 hours
-  - icon: 🏫
-    title: Where?
-    details: Juanita High School 10601 NE 132nd St, Kirkland, WA 98034
-  - title: Box
-    details: More info
 ---
-
-<script setup>
-  import { onMounted } from 'vue';
-
-  onMounted(() => {
-    document.querySelector('.VPHome .container .items .item:nth-child(2) .details').innerHTML = `
-<a href="https://goo.gl/maps/zRJ3WVvejH6qvjnA6" target="_blank">
-  Juanita High School<br />10601 NE 132nd St, Kirkland, WA 98034
-</a>
-`
-  });
-</script>

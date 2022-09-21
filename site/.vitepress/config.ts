@@ -75,8 +75,8 @@ export default defineConfig({
     logo: '/icon.jpg',
     nav: [
       {
-        text: 'Preregister',
-        link: '/preregister.md',
+        text: 'Register',
+        link: '/register.md',
       },
       {
         text: 'About',
