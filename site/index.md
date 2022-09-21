@@ -30,8 +30,6 @@ features:
 
 <script setup>
   import { onMounted } from 'vue';
-  import { VPHomeSponsors } from 'vitepress/theme';
-  import { sponsors } from '@theme/composables/sponsor'
 
   onMounted(() => {
     document.querySelector('.VPHome .container .items .item:nth-child(2) .details').innerHTML = `
@@ -41,5 +39,3 @@ features:
 `
   });
 </script>
-
-<VPHomeSponsors message="This hackathon would not be possible without our wonderful sponsors." :data="sponsors" />
