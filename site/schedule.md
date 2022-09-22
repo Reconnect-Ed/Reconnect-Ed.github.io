@@ -2,10 +2,12 @@
 
 full schedule based off of [the google doc](https://docs.google.com/document/d/1jfkqKTA7pDFiej8kSMwJlvPKE63WMC5YBJ-FreUWaTU/edit)
 
+[Plain text 1 page schedule](https://raw.githubusercontent.com/Reconnect-Ed/Reconnect-Ed.github.io/main/site/schedule.md)
+
 ## Day 1
 
 | Event                          |     Time      |              Note |
-| ------------------------------ | :-----------: | ----------------: |
+| :----------------------------- | :-----------: | ----------------: |
 | Opening                        | 1:00pm-3:00pm |                   |
 | MS Paint Competition           | 1:00pm-3:00pm |             Prize |
 | Python                         | 1:00pm-3:00pm |                   |
@@ -17,7 +19,7 @@ full schedule based off of [the google doc](https://docs.google.com/document/d/1
 ## Day 2
 
 | Event                                    |     Time      |                          Note |
-| ---------------------------------------- | :-----------: | ----------------------------: |
+| :--------------------------------------- | :-----------: | ----------------------------: |
 | Geoguessr                                | 1:00pm-3:00pm |    Geoguessr requires payment |
 | C++ tutorial                             | 1:00pm-3:00pm |       cpp is a pain to set up |
 | Most useless software hackathon          | 1:00pm-3:00pm |                               |
@@ -29,7 +31,7 @@ full schedule based off of [the google doc](https://docs.google.com/document/d/1
 ## Day 3
 
 | Event                                           |     Time      |                   Note |
-| ----------------------------------------------- | :-----------: | ---------------------: |
+| :---------------------------------------------- | :-----------: | ---------------------: |
 | Opening                                         | 1:00pm-3:00pm |                        |
 | Tetris tournament                               | 1:00pm-3:00pm |                        |
 | Java tutorial                                   | 1:00pm-3:00pm |                        |
