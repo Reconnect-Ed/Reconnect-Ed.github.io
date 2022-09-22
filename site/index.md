@@ -10,6 +10,7 @@ hero:
   image:
     src: /icon.jpg
     alt: Reconnect-Ed
+  # features moved to @theme/components/HomeFeatures.vue to add custom buttons
   actions:
     - theme: brand
       text: Register

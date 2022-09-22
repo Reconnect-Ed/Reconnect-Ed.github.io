@@ -42,4 +42,35 @@ export const sponsors: Sponsors[] = [
       },
     ],
   },
+  {
+    tier: 'Silver',
+    size: 'medium',
+    items: [
+      {
+        name: 'LWSD',
+        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+        url: 'https://www.lwsd.org/',
+      },
+      {
+        name: 'LWSD',
+        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+        url: 'https://www.lwsd.org/',
+      },
+      {
+        name: 'LWSD',
+        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+        url: 'https://www.lwsd.org/',
+      },
+      {
+        name: 'LWSD',
+        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+        url: 'https://www.lwsd.org/',
+      },
+      {
+        name: 'LWSD',
+        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+        url: 'https://www.lwsd.org/',
+      },
+    ],
+  },
 ];
