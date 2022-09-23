@@ -1,6 +1,6 @@
 # Reconnect-Ed Hackathon Website
 
-THIS SITE IS (maybe) TEMPORARY TO GIVE MORE TIME TO MAKE SOMETHING BETTER
+This site was made with [vitepress](https://vitepress.vuejs.org/). Yes, this is a docs generator. No, I don't care.
 
 ## How to add content
 
