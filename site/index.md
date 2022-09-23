@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: Register
-      link: /register.md
+      link: https://google.com/
     - theme: alt
       text: Learn More
       link: /about.md

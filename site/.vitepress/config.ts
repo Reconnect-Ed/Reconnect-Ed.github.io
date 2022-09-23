@@ -76,7 +76,7 @@ export default defineConfig({
     nav: [
       {
         text: 'Register',
-        link: '/register.md',
+        link: 'https://google.com/',
       },
       {
         text: 'About',
