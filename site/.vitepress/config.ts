@@ -70,7 +70,6 @@ export default defineConfig({
         link: 'https://www.instagram.com/reconnected2022/',
       },
     ],
-
     siteTitle: 'Reconnect-Ed Hackathon',
     logo: '/icon.jpg',
     nav: [
