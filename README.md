@@ -1,4 +1,4 @@
-# Reconnect-Ed Hackathon Website
+# [Reconnect-Ed Hackathon Website](https://reconnect-ed.github.io/)
 
 This site was made with [vitepress](https://vitepress.vuejs.org/). Yes, this is a docs generator. No, I don't care.
 
