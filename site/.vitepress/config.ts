@@ -91,4 +91,11 @@ export default defineConfig({
 			},
 		],
 	},
+	markdown: {
+		theme: {
+			dark: 'one-dark-pro',
+			light: 'one-dark-pro',
+		},
+		lineNumbers: true,
+	},
 });
