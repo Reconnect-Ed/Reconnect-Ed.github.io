@@ -5,5 +5,5 @@ import { sponsors } from '../composables/sponsor';
 </script>
 
 <template>
-  <VPDocAsideSponsors :data="sponsors" />
+	<VPDocAsideSponsors :data="sponsors" />
 </template>

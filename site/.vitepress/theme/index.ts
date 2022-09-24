@@ -8,18 +8,18 @@ import InstagramPlaceholder from './components/InstagramPlaceholder.vue';
 import './styles/index.scss';
 
 export default {
-  ...Theme,
-  enhanceApp({ app }: { app: App }) {
-    // registers the instagram iframe component on the contact page
-    app.provide('InstagramPlaceholder', InstagramPlaceholder);
-    app.use(createHead());
-  },
-  Layout() {
-    // insert sponsors
-    return h(Theme.Layout, null, {
-      'home-features-before': () => h(HomeFeatures),
-      'home-features-after': () => h(HomeSponsors),
-      'aside-ads-before': () => h(AsideSponsors),
-    });
-  },
+	...Theme,
+	enhanceApp({ app }: { app: App }) {
+		// registers the instagram iframe component on the contact page
+		app.provide('InstagramPlaceholder', InstagramPlaceholder);
+		app.use(createHead());
+	},
+	Layout() {
+		// insert sponsors
+		return h(Theme.Layout, null, {
+			'home-features-before': () => h(HomeFeatures),
+			'home-features-after': () => h(HomeSponsors),
+			'aside-ads-before': () => h(AsideSponsors),
+		});
+	},
 };

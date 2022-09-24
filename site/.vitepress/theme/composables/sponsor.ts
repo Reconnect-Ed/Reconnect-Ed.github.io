@@ -1,76 +1,76 @@
 export interface Sponsors {
-  tier: string;
-  size?: 'medium' | 'big';
-  items: Sponsor[];
+	tier: string;
+	size?: 'medium' | 'big';
+	items: Sponsor[];
 }
 export interface Sponsor {
-  name: string;
-  img: string;
-  url: string;
+	name: string;
+	img: string;
+	url: string;
 }
 
 export const sponsors: Sponsors[] = [
-  {
-    tier: 'Platinum',
-    size: 'big',
-    items: [
-      {
-        name: 'Hababisoft',
-        img: 'https://cdn.discordapp.com/attachments/1020201544198664202/1021652963409801306/Unt1itled.png',
-        url: 'https://githababi.github.io/',
-      },
-    ],
-  },
-  {
-    tier: 'Gold',
-    size: 'medium',
-    items: [
-      {
-        name: 'Bobs Burgers',
-        img: 'https://static.wixstatic.com/media/bf437b_7ded045444c541958eb586262212c195.png/v1/fill/w_246,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bf437b_7ded045444c541958eb586262212c195.png',
-        url: 'https://www.joesburgers.com/',
-      },
-      {
-        name: 'Bobs Burgers',
-        img: 'https://static.wixstatic.com/media/bf437b_7ded045444c541958eb586262212c195.png/v1/fill/w_246,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bf437b_7ded045444c541958eb586262212c195.png',
-        url: 'https://www.joesburgers.com/',
-      },
-      {
-        name: 'Bobs Burgers',
-        img: 'https://static.wixstatic.com/media/bf437b_7ded045444c541958eb586262212c195.png/v1/fill/w_246,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bf437b_7ded045444c541958eb586262212c195.png',
-        url: 'https://www.joesburgers.com/',
-      },
-    ],
-  },
-  {
-    tier: 'Silver',
-    size: 'medium',
-    items: [
-      {
-        name: 'LWSD',
-        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
-        url: 'https://www.lwsd.org/',
-      },
-      {
-        name: 'LWSD',
-        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
-        url: 'https://www.lwsd.org/',
-      },
-      {
-        name: 'LWSD',
-        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
-        url: 'https://www.lwsd.org/',
-      },
-      {
-        name: 'LWSD',
-        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
-        url: 'https://www.lwsd.org/',
-      },
-      {
-        name: 'LWSD',
-        img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
-        url: 'https://www.lwsd.org/',
-      },
-    ],
-  },
+	{
+		tier: 'Platinum',
+		size: 'big',
+		items: [
+			{
+				name: 'Hababisoft',
+				img: 'https://cdn.discordapp.com/attachments/1020201544198664202/1021652963409801306/Unt1itled.png',
+				url: 'https://githababi.github.io/',
+			},
+		],
+	},
+	{
+		tier: 'Gold',
+		size: 'medium',
+		items: [
+			{
+				name: 'Bobs Burgers',
+				img: 'https://static.wixstatic.com/media/bf437b_7ded045444c541958eb586262212c195.png/v1/fill/w_246,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bf437b_7ded045444c541958eb586262212c195.png',
+				url: 'https://www.joesburgers.com/',
+			},
+			{
+				name: 'Bobs Burgers',
+				img: 'https://static.wixstatic.com/media/bf437b_7ded045444c541958eb586262212c195.png/v1/fill/w_246,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bf437b_7ded045444c541958eb586262212c195.png',
+				url: 'https://www.joesburgers.com/',
+			},
+			{
+				name: 'Bobs Burgers',
+				img: 'https://static.wixstatic.com/media/bf437b_7ded045444c541958eb586262212c195.png/v1/fill/w_246,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bf437b_7ded045444c541958eb586262212c195.png',
+				url: 'https://www.joesburgers.com/',
+			},
+		],
+	},
+	{
+		tier: 'Silver',
+		size: 'medium',
+		items: [
+			{
+				name: 'LWSD',
+				img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+				url: 'https://www.lwsd.org/',
+			},
+			{
+				name: 'LWSD',
+				img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+				url: 'https://www.lwsd.org/',
+			},
+			{
+				name: 'LWSD',
+				img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+				url: 'https://www.lwsd.org/',
+			},
+			{
+				name: 'LWSD',
+				img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+				url: 'https://www.lwsd.org/',
+			},
+			{
+				name: 'LWSD',
+				img: 'https://www.lwsd.org/uploaded/themes/default/images/logo-colored-sails.svg',
+				url: 'https://www.lwsd.org/',
+			},
+		],
+	},
 ];
