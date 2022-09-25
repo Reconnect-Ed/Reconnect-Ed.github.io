@@ -75,7 +75,7 @@ export default defineConfig({
 		nav: [
 			{
 				text: 'Register',
-				link: 'https://google.com/',
+				link: 'https://docs.google.com/forms/d/1rj9pFcr66k-Pn2U-4mRA3e7ERCYqx-cXlZVY9YAWJZs/viewform',
 			},
 			{
 				text: 'About',
