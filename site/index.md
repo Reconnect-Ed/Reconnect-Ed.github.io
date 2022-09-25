@@ -13,8 +13,8 @@ hero:
   # features moved to @theme/components/HomeFeatures.vue to add custom buttons
   actions:
     - theme: brand
-      text: Register
-      link: https://google.com/
+      text: I'm Interested
+      link: https://docs.google.com/forms/d/e/1FAIpQLSeM1kh-uSdkdnf7yGomsp5Mgb2KxIR_R5r5fsVJu-rYAOjF2Q/viewform?usp=sf_link
     - theme: alt
       text: Learn More
       link: /about.md
