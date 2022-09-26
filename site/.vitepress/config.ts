@@ -101,6 +101,10 @@ export default defineConfig({
 				text: 'Schedule',
 				link: '/schedule.md',
 			},
+			{
+				text: 'Who We Are',
+				link: '/team.md',
+			},
 		],
 	},
 	markdown: {

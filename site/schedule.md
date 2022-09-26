@@ -1,39 +1,36 @@
 # Schedule
 
-full schedule based off of [the google doc](https://docs.google.com/document/d/1jfkqKTA7pDFiej8kSMwJlvPKE63WMC5YBJ-FreUWaTU/edit)
-
-[Plain text 1 page schedule](https://raw.githubusercontent.com/Reconnect-Ed/Reconnect-Ed.github.io/main/site/schedule.md)
+[Plain 1 page text schedule](https://raw.githubusercontent.com/Reconnect-Ed/Reconnect-Ed.github.io/main/site/schedule.md)
 
 ## Day 1
 
-| Event                          |     Time      |              Note |
-| :----------------------------- | :-----------: | ----------------: |
-| Opening                        | 1:00pm-3:00pm |                   |
-| MS Paint Competition           | 1:00pm-3:00pm |             Prize |
-| Python                         | 1:00pm-3:00pm |                   |
-| Mini Hackathon (Google Forms)  | 1:00pm-3:00pm | Top 3 get a prize |
-| Mental Health Workshop/speaker | 1:00pm-3:00pm |                   |
-| Kahoot                         | 1:00pm-3:00pm |                   |
-| Closing                        | 1:00pm-3:00pm |                   |
+| Event                                |  Time   |
+| :----------------------------------- | :-----: |
+| Opening                              | 4:00pm  |
+| Gartic Phone Tournament              | 4:30pm  |
+| Python Tutorial                      | 5:30pm  |
+| Mini Hackathon (Google Forms, prize) | 7:00pm  |
+| Mental Health Speaker                | 8:00pm  |
+| Kahoot                               | 9:00pm  |
+| Closing                              | 10:00pm |
 
 ## Day 2
 
-| Event                                    |     Time      |                          Note |
-| :--------------------------------------- | :-----------: | ----------------------------: |
-| Geoguessr                                | 1:00pm-3:00pm |    Geoguessr requires payment |
-| C++ tutorial                             | 1:00pm-3:00pm |       cpp is a pain to set up |
-| Most useless software hackathon          | 1:00pm-3:00pm |                               |
-| AI Discussion/Workshop                   | 1:00pm-3:00pm |                               |
-| Watch something (mental health activity) | 1:00pm-3:00pm |   Submit through Google Forms |
-| Anon. discussion/debate                  | 1:00pm-3:00pm | About mental health and video |
-| Kahoot                                   | 1:00pm-3:00pm |                               |
+| Event                           |  Time  |
+| :------------------------------ | :----: |
+| Geoguessr Tournament            | 1:00pm |
+| MLH partner event 1             | 2:20pm |
+| Most useless software hackathon | 3:40pm |
+| AI Discussion/Workshop          | 5:00pm |
+| Mental health group discussion  | 5:20pm |
+| Kahoot                          | 6:40pm |
 
 ## Day 3
 
-| Event                                           |     Time      |                   Note |
-| :---------------------------------------------- | :-----------: | ---------------------: |
-| Opening                                         | 1:00pm-3:00pm |                        |
-| Tetris tournament                               | 1:00pm-3:00pm |                        |
-| Java tutorial                                   | 1:00pm-3:00pm |                        |
-| Event that connects mental health to comp. sci. | 1:00pm-3:00pm | Should bring awareness |
-| Closing                                         | 1:00pm-3:00pm |  Judging, prizes, etc. |
+| Event                            |  Time  |
+| :------------------------------- | :----: |
+| Opening                          | 1:00pm |
+| Tetris tournament                | 1:30pm |
+| MLH partner event 2              | 2:50pm |
+| Youth eastside services workshop | 4:10pm |
+| Closing, judging, prizes         | 5:30pm |
