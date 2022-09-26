@@ -53,8 +53,7 @@ export default defineConfig({
 			},
 		],
 	],
-	// this broke gh pages for some reason
-	// cleanUrls: 'with-subfolders',
+	cleanUrls: 'with-subfolders',
 	themeConfig: {
 		socialLinks: [
 			{
