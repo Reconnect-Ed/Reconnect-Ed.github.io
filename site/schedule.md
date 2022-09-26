@@ -4,19 +4,19 @@
 
 ## Day 1
 
-| Event                                |  Time   |
+| Event                                |    Time |
 | :----------------------------------- | ------: |
-| Opening                              | 4:00pm  |
-| Gartic Phone Tournament              | 4:30pm  |
-| Python Tutorial                      | 5:30pm  |
-| Mini Hackathon (Google Forms, prize) | 7:00pm  |
-| Mental Health Speaker                | 8:00pm  |
-| Kahoot                               | 9:00pm  |
+| Opening                              |  4:00pm |
+| Gartic Phone Tournament              |  4:30pm |
+| Python Tutorial                      |  5:30pm |
+| Mini Hackathon (Google Forms, prize) |  7:00pm |
+| Mental Health Speaker                |  8:00pm |
+| Kahoot                               |  9:00pm |
 | Closing                              | 10:00pm |
 
 ## Day 2
 
-| Event                           |  Time  |
+| Event                           |   Time |
 | :------------------------------ | -----: |
 | Geoguessr Tournament            | 1:00pm |
 | MLH partner event 1             | 2:20pm |
@@ -27,7 +27,7 @@
 
 ## Day 3
 
-| Event                            |  Time  |
+| Event                            |   Time |
 | :------------------------------- | -----: |
 | Opening                          | 1:00pm |
 | Tetris tournament                | 1:30pm |
