@@ -53,7 +53,7 @@ export default defineConfig({
 			},
 		],
 	],
-	cleanUrls: 'with-subfolders',
+	// cleanUrls: 'with-subfolders',
 	themeConfig: {
 		socialLinks: [
 			{
