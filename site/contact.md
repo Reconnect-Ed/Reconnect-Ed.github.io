@@ -5,5 +5,5 @@
 
 ## Other socials
 
-- GitHub: [https://github.com/Reconnect-Ed](https://github.com/Reconnect-Ed)
-- Instagram: [https://www.instagram.com/reconnected2022/](https://www.instagram.com/reconnected2022/)
+- GitHub: [@Reconnect-Ed](https://github.com/Reconnect-Ed)
+- Instagram: [@reconnected2022/](https://www.instagram.com/reconnected2022/)
