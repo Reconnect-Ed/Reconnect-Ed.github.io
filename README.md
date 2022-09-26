@@ -8,6 +8,7 @@ This site was made with [vitepress](https://vitepress.vuejs.org/). Yes, this is 
 - [ ] Real sponsors
 - [ ] Actual team
 - [ ] Actual twitch
+- [ ] New icon
 
 ## How to add content
 
