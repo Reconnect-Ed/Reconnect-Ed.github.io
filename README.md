@@ -2,6 +2,13 @@
 
 This site was made with [vitepress](https://vitepress.vuejs.org/). Yes, this is a docs generator. No, I don't care.
 
+## TODO
+
+- [ ] Add real devpost link
+- [ ] Real sponsors
+- [ ] Actual team
+- [ ] Actual twitch
+
 ## How to add content
 
 Content lives in the `site` dir in `.md` files.
