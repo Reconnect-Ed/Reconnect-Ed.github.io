@@ -54,7 +54,7 @@ export default defineConfig({
 			},
 		],
 	],
-	// cleanUrls: 'with-subfolders',
+	cleanUrls: 'without-subfolders',
 	themeConfig: {
 		socialLinks: [
 			{
