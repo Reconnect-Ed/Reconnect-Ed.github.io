@@ -62,3 +62,20 @@
 	border-radius: 24px !important;
 	box-shadow: 0 0 15px #ff0069 !important;
 }
+
+.VPFooter .message a {
+	text-decoration-style: dotted;
+	transition: color 0.25s;
+	color: var(--vp-c-brand);
+
+	&:hover {
+		color: var(--vp-c-brand-dark);
+	}
+}
+
+.dark .VPFooter .message a {
+	color: var(--vp-c-brand-lighter);
+	&:hover {
+		color: var(--vp-c-brand-lightest);
+	}
+}

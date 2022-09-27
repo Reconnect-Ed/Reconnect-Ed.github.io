@@ -56,11 +56,11 @@ export default defineConfig({
 	],
 	cleanUrls: 'without-subfolders',
 	themeConfig: {
+		footer: {
+			message:
+				'This site\'s source code is available <a rel="noreferrer" target="_blank" href="https://github.com/Reconnect-Ed/Reconnect-Ed.github.io">on Github</a>',
+		},
 		socialLinks: [
-			{
-				icon: 'github',
-				link: 'https://github.com/Reconnect-Ed',
-			},
 			{
 				icon: 'discord',
 				link: 'https://discord.gg/hgbtWavSDy',
