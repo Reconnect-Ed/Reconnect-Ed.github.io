@@ -22,7 +22,7 @@ export const features: Feature[] = [
 	{
 		icon: '🗓️',
 		title: 'When?',
-		details: 'October 21st to October 23rd, 36 hours',
+		details: 'November 19th to November 20th, 48 hours',
 	},
 	{
 		icon: '🖥️',

@@ -108,10 +108,10 @@ export default defineConfig({
 						text: 'Day Two',
 						link: '/schedule/day-two.md',
 					},
-					{
-						text: 'Day Three',
-						link: '/schedule/day-three.md',
-					},
+					// {
+					// 	text: 'Day Three',
+					// 	link: '/schedule/day-three.md',
+					// },
 				],
 			},
 			{
@@ -133,10 +133,10 @@ export default defineConfig({
 							text: 'Day Two',
 							link: '/schedule/day-two.md',
 						},
-						{
-							text: 'Day Three',
-							link: '/schedule/day-three.md',
-						},
+						// {
+						// 	text: 'Day Three',
+						// 	link: '/schedule/day-three.md',
+						// },
 					],
 				},
 			],
