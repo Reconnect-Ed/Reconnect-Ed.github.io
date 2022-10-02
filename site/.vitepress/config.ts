@@ -9,10 +9,10 @@ export default defineConfig({
 		reactivityTransform: true,
 	},
 	head: [
-		['link', { rel: 'icon', href: '/icon.jpg' }],
+		['link', { rel: 'icon', href: '/icon.png' }],
 		['meta', { property: 'og:type', content: 'website' }],
 		['meta', { property: 'og:title', content: 'Reconnect-Ed Hackathon' }],
-		['meta', { property: 'og:image', content: '/icon.jpg' }],
+		['meta', { property: 'og:image', content: '/icon.png' }],
 		[
 			'meta',
 			{ property: 'og:url', content: 'https://reconnect-ed.github.io/' },
@@ -83,7 +83,7 @@ export default defineConfig({
 			},
 		],
 		siteTitle: 'Reconnect-Ed Hackathon',
-		logo: '/icon.jpg',
+		logo: '/icon.png',
 		nav: [
 			{
 				text: 'Register',
