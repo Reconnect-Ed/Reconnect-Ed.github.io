@@ -9,6 +9,10 @@
 	--vp-c-brand-dimm: rgba(100, 108, 255, 0.08);
 	// fira code best font
 	--vp-font-family-mono: 'Fira Code', Consolas, Monaco, 'Andale Mono';
+
+	--hero-image-pink: #d4c3d3;
+	--hero-image-purple: #c6c7dc;
+	--hero-image-blue: #c0d5da;
 }
 
 // title gradient
@@ -19,6 +23,20 @@
 		var(--vp-c-brand-lighter),
 		var(--vp-c-brand-darker)
 	);
+}
+
+// background gradient for hero image
+:root {
+	--vp-home-hero-image-background-image: linear-gradient(
+		-90deg,
+		var(--hero-image-blue) 0,
+		var(--hero-image-blue) 33%,
+		var(--hero-image-purple) 33%,
+		var(--hero-image-purple) 66%,
+		var(--hero-image-pink) 66%,
+		var(--hero-image-pink) 100%
+	);
+	--vp-home-hero-image-filter: blur(40px);
 }
 
 /*
@@ -53,6 +71,9 @@
 	.VPImage {
 		border-radius: 24px;
 	}
+}
+.VPImage.logo {
+	border-radius: 4px;
 }
 
 .VPFooter .message a {
