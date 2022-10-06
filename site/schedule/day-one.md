@@ -1,11 +1,11 @@
-# Day 1 Scedule
+# Day 1 Schedule
 
-| Event                                |    Time |
-| :----------------------------------- | ------: |
-| Opening                              |  4:00pm |
-| Gartic Phone Tournament              |  4:30pm |
-| Python Tutorial                      |  5:30pm |
-| Mini Hackathon (Google Forms, prize) |  7:00pm |
-| Mental Health Speaker                |  8:00pm |
-| Kahoot                               |  9:00pm |
-| Closing                              | 10:00pm |
+| Event                                |   Time |
+| :----------------------------------- | -----: |
+| Opening                              | 1:00pm |
+| Gartic Phone Tournament              | 1:45pm |
+| Python Tutorial                      | 2:45pm |
+| Mini Hackathon (Google Forms, prize) | 3:45pm |
+| Mental Health Speaker                | 5:00pm |
+| Kahoot                               | 5:45pm |
+| Closing                              | 6:15pm |
