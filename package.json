@@ -1,29 +1,29 @@
 {
-	"name": "reconnect-ed-hackathon",
-	"scripts": {
-		"dev": "vitepress dev site",
-		"build": "vitepress build site",
-		"serve": "vitepress serve site",
-		"format": "prettier --write '**/*.{md,js,ts,jsx,tsx,json,yml,yaml,css,scss,less,html,vue}'",
-		"lint": "eslint ."
-	},
-	"devDependencies": {
-		"@typescript-eslint/eslint-plugin": "^5.39.0",
-		"@typescript-eslint/parser": "^5.39.0",
-		"eslint": "^8.24.0",
-		"eslint-plugin-vue": "^9.6.0",
-		"prettier": "^2.7.1",
-		"sass": "^1.55.0",
-		"typescript": "^4.8.4",
-		"vite": "^3.1.4",
-		"vitepress": "1.0.0-alpha.19",
-		"vue": "^3.2.40"
-	},
-	"pnpm": {
-		"peerDependencyRules": {
-			"ignoreMissing": [
-				"@algolia/client-search"
-			]
-		}
-	}
+  "name": "reconnect-ed-hackathon",
+  "scripts": {
+    "dev": "vitepress dev site",
+    "build": "vitepress build site",
+    "serve": "vitepress serve site",
+    "format": "prettier --write '**/*.{md,js,ts,jsx,tsx,json,yml,yaml,css,scss,less,html,vue}'",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.39.0",
+    "@typescript-eslint/parser": "^5.39.0",
+    "eslint": "^8.24.0",
+    "eslint-plugin-vue": "^9.6.0",
+    "prettier": "^2.7.1",
+    "sass": "^1.55.0",
+    "typescript": "^4.8.4",
+    "vite": "^3.1.4",
+    "vitepress": "1.0.0-alpha.19",
+    "vue": "^3.2.40"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
+  }
 }

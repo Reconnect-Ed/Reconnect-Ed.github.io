@@ -7,5 +7,5 @@ const data = computed(() => sponsors);
 </script>
 
 <template>
-	<VPDocAsideSponsors :data="data" />
+  <VPDocAsideSponsors :data="data" />
 </template>
