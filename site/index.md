@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: Register
-      link: https://forms.gle/FsLZZWfr25rJzyXW7
+      link: https://forms.gle/ACAtBY4dULCVzmyD9
     - theme: alt
       text: Learn More
       link: /about.md
