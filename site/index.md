@@ -18,4 +18,7 @@ hero:
     - theme: alt
       text: Learn More
       link: /about.md
+    - theme: alt
+      text: MLH Code of Conduct
+      link: https://static.mlh.io/docs/mlh-code-of-conduct.pdf
 ---
