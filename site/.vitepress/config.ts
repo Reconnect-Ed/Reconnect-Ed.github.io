@@ -87,7 +87,7 @@ export default defineConfig({
     nav: [
       {
         text: 'Register',
-        link: 'https://docs.google.com/forms/d/1rj9pFcr66k-Pn2U-4mRA3e7ERCYqx-cXlZVY9YAWJZs/viewform',
+        link: 'https://forms.gle/FsLZZWfr25rJzyXW7',
       },
       {
         text: 'About',
@@ -108,10 +108,6 @@ export default defineConfig({
             text: 'Day Two',
             link: '/schedule/day-two.md',
           },
-          // {
-          // 	text: 'Day Three',
-          // 	link: '/schedule/day-three.md',
-          // },
         ],
       },
       {
@@ -133,10 +129,6 @@ export default defineConfig({
               text: 'Day Two',
               link: '/schedule/day-two.md',
             },
-            // {
-            // 	text: 'Day Three',
-            // 	link: '/schedule/day-three.md',
-            // },
           ],
         },
       ],
