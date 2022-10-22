@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Reconnect-Ed Hackathon',
   lang: 'en-US',
+  appearance: 'dark',
   description:
     'A hackathon based in Juanita High School aiming to spread awareness of mental health, neuro divergency and their respective resources.',
   vue: {
@@ -87,7 +88,7 @@ export default defineConfig({
     nav: [
       {
         text: 'Register',
-        link: 'https://forms.gle/FsLZZWfr25rJzyXW7',
+        link: 'https://forms.gle/ACAtBY4dULCVzmyD9',
       },
       {
         text: 'About',
