@@ -111,10 +111,6 @@ export default defineConfig({
           },
         ],
       },
-      {
-        text: 'Who We Are',
-        link: '/team.md',
-      },
     ],
     sidebar: {
       '/schedule/': [
