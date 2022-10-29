@@ -23,6 +23,11 @@ export const features: Feature[] = [
     icon: '🗓️',
     title: 'When?',
     details: 'November 19th to November 20th, 48 hours',
+    action: {
+      theme: 'brand',
+      text: 'Schedule',
+      link: '/schedule/day-one.md',
+    },
   },
   {
     icon: '🖥️',

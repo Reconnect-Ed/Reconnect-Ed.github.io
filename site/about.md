@@ -9,7 +9,3 @@ By partnering with Juanita High School’s Mental Health Club to educate young s
 ## Our Mission
 
 To create an impact, one string of code at a time!
-
-## hack•a•thon _(informal) (noun)_
-
-an event in which a large number of people meet to engage in collaborative computer programming.
