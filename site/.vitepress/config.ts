@@ -74,13 +74,13 @@ export default defineConfig({
         icon: {
           svg: '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Twitch</title><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z"/></svg>',
         },
-        link: 'https://twitch.tv',
+        link: 'https://www.twitch.tv/reconnected2022',
       },
       {
         icon: {
           svg: '<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 280.3 242"><title>Devpost</title><g><path d="M133.7,76H118v90h14.7c30.9,0,45.1-18.1,45.1-45C177.8,90.9,164.9,76,133.7,76z"/><path d="M210.2,0H70.1L0,121l70.1,121h140.1l70.1-121L210.2,0z M132.7,195H89V47h45.8c42.1,0,73.3,20.1,73.3,74 C208.1,172.8,170.6,195,132.7,195z"/></g></svg>',
         },
-        link: 'https://devpost.com/',
+        link: 'https://reconnect-ed-16606.devpost.com/',
       },
     ],
     siteTitle: 'Reconnect-Ed Hackathon',
