@@ -24,6 +24,11 @@ export const sponsors: Sponsors[] = [
         img: '/yes.png',
         url: 'https://www.youtheastsideservices.org/',
       },
+      {
+        name: 'Stand Out Stickers',
+        img: '/stand-out-stickers-logo.png',
+        url: 'https://hackp.ac/mlh-standoutstickers-hackathons',
+      },
     ],
   },
 ];
