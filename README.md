@@ -4,10 +4,10 @@ This site was made with [vitepress](https://vitepress.vuejs.org/). Yes, this is 
 
 ## TODO
 
-- [ ] Add real devpost link
+- [x] Add real devpost link
 - [ ] Real sponsors (partially complete)
 - [ ] Actual team
-- [ ] Actual twitch
+- [x] Actual twitch
 - [x] New icon
 
 ## How to add content
