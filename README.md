@@ -5,8 +5,7 @@ This site was made with [vitepress](https://vitepress.vuejs.org/). Yes, this is 
 ## TODO
 
 - [x] Add real devpost link
-- [ ] Real sponsors (partially complete)
-- [ ] Actual team
+- [x] Real sponsors
 - [x] Actual twitch
 - [x] New icon
 
