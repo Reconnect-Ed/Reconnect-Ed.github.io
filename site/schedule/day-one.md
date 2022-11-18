@@ -3,7 +3,7 @@
 | Event                                |   Time |
 | :----------------------------------- | -----: |
 | Opening                              | 1:00pm |
-| Gartic Phone Tournament              | 1:45pm |
+| MSPaint Competition                  | 1:45pm |
 | Python Tutorial                      | 2:45pm |
 | Mini Hackathon                       | 3:45pm |
 | Mental Health Speaker                | 5:00pm |

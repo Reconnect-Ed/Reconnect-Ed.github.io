@@ -36,7 +36,7 @@ export const features: Feature[] = [
     action: {
       theme: 'brand',
       text: 'Join Discord',
-      link: 'https://discord.gg/hgbtWavSDy',
+      link: 'https://discord.gg/t3aFdD5t',
     },
   },
 ];

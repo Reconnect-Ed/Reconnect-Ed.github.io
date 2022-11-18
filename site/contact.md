@@ -1,6 +1,6 @@
 # Contact Us
 
-- Discord: [https://discord.gg/hgbtWavSDy](https://discord.gg/hgbtWavSDy)
+- Discord: [https://discord.gg/t3aFdD5t](https://discord.gg/t3aFdD5t)
 - Email: [reconnected2022@gmail.com](mailto:reconnected2022@gmail.com)
 
 ## Other socials
