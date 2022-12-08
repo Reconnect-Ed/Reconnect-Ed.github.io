@@ -20,15 +20,15 @@ hero:
     - theme: alt
       text: MLH Code of Conduct
       link: https://static.mlh.io/docs/mlh-code-of-conduct.pdf
-  features:
-    - icon: 🗓️
-      title: When?
-      details: November 19th to November 20th, 48 hours
-      linkText: Schedule
-      link: /schedule/day-one.md
-    - icon: 🖥️
-      title: Where?
-      details: Online
-      linkText: Join Discord
-      link: https://discord.gg/t3aFdD5t
+features:
+  - icon: 🗓️
+    title: When?
+    details: November 19th to November 20th, 48 hours
+    linkText: Schedule
+    link: /schedule/day-one.md
+  - icon: 🖥️
+    title: Where?
+    details: Online
+    linkText: Join Discord
+    link: https://discord.gg/t3aFdD5t
 ---
