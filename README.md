@@ -6,7 +6,7 @@ This site was made with [vitepress](https://vitepress.vuejs.org/). Yes, this is 
 
 - [x] Add real devpost link
 - [x] Real sponsors
-- ~~[x] Actual twitch~~
+- [x] ~~Actual twitch~~
 - [x] New icon
 
 ## How to add content
